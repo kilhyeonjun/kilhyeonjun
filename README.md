@@ -3,7 +3,7 @@
   <a href="https://kilhyeonjun.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:kboxstar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kboxstar@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kboxstar)](https://solved.ac/kboxstar/)
 <p>
   👋&nbsp; Hi there! I'm <b>Full stack developer</b> using Spring. 🚀<br/>
   <br/>
