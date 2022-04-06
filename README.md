@@ -5,7 +5,7 @@
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kboxstar)](https://solved.ac/kboxstar/)
 <p>
-  👋&nbsp; Hi there! I'm <b>Full stack developer</b> using Spring. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>Full stack developer</b> using JavaScript. 🚀<br/>
   <br/>
   I enjoy gaming and date<br/>
   I want to study every develop. ✨ <br/><br/>
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
 </p>
 
 #### Tools
