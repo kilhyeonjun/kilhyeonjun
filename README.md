@@ -5,7 +5,7 @@
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kboxstar)](https://solved.ac/kboxstar/)
 <p>
-  👋&nbsp; Hi there! I'm <b>Back End developer</b> using JavaScript. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>BE developer</b> using JavaScript. 🚀<br/>
   <br/>
   I enjoy gaming and date<br/>
   I want to study every develop. ✨ <br/><br/>
