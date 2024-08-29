@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Gil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Kil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descAlign=50)
 
 <div align="center">
   
