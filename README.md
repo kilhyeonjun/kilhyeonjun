@@ -18,9 +18,13 @@
 
 ## 📅 Key Activities
 
-- **[2024.9.21 ~ 2024.11.30] 항해 플러스 백엔드 6기**  
+- **[2024.9.21 ~ 2024.11.30] 항해 플러스 백엔드 6기**   
   **TDD**, **Clean Architecture**, **대용량 트래픽 처리** 및 **장애 대응** 기술을 학습하고 프로젝트에 적용하였습니다.  
-  [프로젝트 보기](https://github.com/hhpb-code)
+  [프로젝트 보기](https://github.com/hhpb-code)  
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+  </a>
+  
 
 - **[2024.9] 항해 플러스 백엔드 6기 사전 스터디**  
   기초 역량 강화를 위해 팀원들과 **사전 스터디**를 진행하였습니다.  
