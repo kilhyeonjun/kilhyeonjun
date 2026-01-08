@@ -20,6 +20,8 @@
 
 | Date | Project | PR | Description | Status |
 |------|---------|-----|-------------|--------|
+| 2026-01-08 | [atlassian-skills](https://github.com/langpingxue/atlassian-skills) | [#7](https://github.com/langpingxue/atlassian-skills/pull/7) | fix: use ADF format for comments in Jira Cloud API v3 | Merged |
+| 2026-01-08 | [atlassian-skills](https://github.com/langpingxue/atlassian-skills) | [#6](https://github.com/langpingxue/atlassian-skills/pull/6) | fix: migrate to new Jira Cloud search API endpoint | Merged |
 | 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | Merged |
 | 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | Merged |
 | 2025-12-19 | [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin) | [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | 🔄 Open |
