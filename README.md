@@ -80,6 +80,13 @@
 
   [세미나 내용 보기](https://jnp.tech/posts/2024-03-aws-ses-event-log)
 
+## 📜 Certifications
+
+| Date | Certification | Issuer |
+|------|---------------|--------|
+| 2025.12 | SQLD (Structured Query Language Developer) | 한국데이터산업진흥원 |
+| 2023.06 | 정보처리기사 | 한국산업인력공단 |
+
 ## 📊 GitHub Stats
 
 ![Hyeonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilhyeonjun&show_icons=true&theme=radical)
