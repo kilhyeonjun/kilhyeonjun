@@ -25,6 +25,7 @@
 | 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | Merged |
 | 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | Merged |
 | 2025-12-19 | [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin) | [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | 🔄 Open |
+| 2024-05-29 | [cyan](https://github.com/coralblack/cyan) | [#110](https://github.com/coralblack/cyan/pull/110) | feat: add NOT IN operator to FindOperatorComp | Merged |
 
 > kiro-gateway: Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
 
