@@ -20,8 +20,8 @@
 
 | Date | Project | PR | Description | Status |
 |------|---------|-----|-------------|--------|
-| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
-| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
+| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | Merged |
+| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | Merged |
 | 2025-12-19 | [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin) | [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | 🔄 Open |
 
 > kiro-gateway: Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
@@ -34,7 +34,7 @@
 
   매주 내용 발표 및 공유, 토론을 진행합니다.
 
-- **[2025.10 ~ 2025.12.15] Node.js 디자인 패턴 바이블 스터디** ✅
+- **[2025.10 ~ 2025.12.15] Node.js 디자인 패턴 바이블 스터디**
 
   **Node 코어 개념**, **동시성**, **이벤트 루프**, **모듈 시스템**을 학습하였습니다.
 
@@ -50,7 +50,7 @@
 
   [📺 발표 영상](https://www.youtube.com/watch?v=2jRicD15jXk) | [발표 후기](https://www.linkedin.com/posts/kilhyeonjun_%EC%A0%9C-%EC%83%9D%EC%95%A0-%EC%B2%AB-%EB%8C%80%EC%99%B8-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EB%B0%9C%ED%91%9C%EB%A5%BC-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%B3%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C-10%EC%9B%94-activity-7383826538632249344--0Yz)
 
-- **[2025.08 ~ 2025.10.30] 시스템 디자인 스터디 1권** ✅
+- **[2025.08 ~ 2025.10.30] 시스템 디자인 스터디 1권**
 
   **가상 면접 사례로 배우는 대규모 시스템 설계 기초 1권**을 학습하였습니다.
 
