@@ -8,16 +8,6 @@
 
 </div>
 
-## 🌍 Open Source Contributions
-
-| Date | Project | PR | Description | Status |
-|------|---------|-----|-------------|--------|
-| 2025-12-19 | [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin) | [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | 🔄 Open |
-| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
-| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
-
-> kiro-gateway: Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
-
 ## 👋 About Me
 
 안녕하세요! 4년차 백엔드 개발자 길현준입니다.
@@ -25,6 +15,16 @@
 - 🚀 확장 가능한 시스템 구축과 팀 협업을 통한 성장을 지향합니다.
 - 🌱 새로운 기술을 배우고 이를 프로젝트에 적용하는 것을 즐깁니다.
 - 👥 실무에서의 다양한 경험을 기록하고 공유하며 지속적으로 성장 중입니다.
+
+## 🌍 Open Source Contributions
+
+| Date | Project | PR | Description | Status |
+|------|---------|-----|-------------|--------|
+| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
+| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
+| 2025-12-19 | [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin) | [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | 🔄 Open |
+
+> kiro-gateway: Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
 
 ## 📅 Key Activities
 
