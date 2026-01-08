@@ -8,6 +8,15 @@
 
 </div>
 
+## 🌍 Open Source Contributions
+
+| Date | Project | PR | Description | Status |
+|------|---------|-----|-------------|--------|
+| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
+| 2026-01-08 | [kiro-gateway](https://github.com/jwadow/kiro-gateway) | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
+
+> Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
+
 ## 👋 About Me
 
 안녕하세요! 4년차 백엔드 개발자 길현준입니다.
