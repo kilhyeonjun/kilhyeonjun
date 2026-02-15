@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://penguin-dev.tistory.com/)
+  [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://kilhyeonjun.github.io)
   [![Email](https://img.shields.io/badge/kboxstar@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:kboxstar@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kilhyeonjun)
 
@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-안녕하세요! 4년차 백엔드 개발자 길현준입니다.
+안녕하세요! 5년차 백엔드 개발자 길현준입니다.
 
 - 🚀 확장 가능한 시스템 구축과 팀 협업을 통한 성장을 지향합니다.
 - 🌱 새로운 기술을 배우고 이를 프로젝트에 적용하는 것을 즐깁니다.
