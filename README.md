@@ -90,10 +90,6 @@
 | 2025.12 | SQLD (Structured Query Language Developer) | 한국데이터산업진흥원 |
 | 2023.06 | 정보처리기사 | 한국산업인력공단 |
 
-## 📊 GitHub Stats
-
-![Hyeonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilhyeonjun&show_icons=true&theme=radical)
-
 ## 🏆 Baekjoon Solved Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kboxstar)](https://solved.ac/kboxstar/)
