@@ -18,17 +18,61 @@
 - 🚀 확장 가능한 시스템 구축과 팀 협업을 통한 성장을 지향합니다.
 - 🌱 새로운 기술을 배우고 이를 프로젝트에 적용하는 것을 즐깁니다.
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks & ORM**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=TypeORM&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=AWS%20Lambda&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=Amazon%20SQS&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/CDK-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![GH Actions](https://img.shields.io/badge/GH%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)
+
+**Database & Monitoring**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=Google%20BigQuery&logoColor=white)
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=flat-square&logo=Datadog&logoColor=white)
+
+**Testing**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![LocalStack](https://img.shields.io/badge/LocalStack-252F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+
+</div>
+
 ## 📅 Key Activities
 
 ### 🎤 발표
 
-- **[2025.10.14] Games on AWS 2025 컨퍼런스 발표**
+- **[2025.10] Games on AWS 2025 컨퍼런스 발표**
 
   **Amazon Q Developer를 활용한 개발 생산성 향상** 주제로 발표하였습니다.
 
   주니어 개발자 혼자 10일 만에 데이터 파이프라인 처리 용량을 **270배 확장**한 사례를 공유했습니다.
 
   [📺 발표 영상](https://www.youtube.com/watch?v=2jRicD15jXk) | [발표 후기](https://www.linkedin.com/posts/kilhyeonjun_%EC%A0%9C-%EC%83%9D%EC%95%A0-%EC%B2%AB-%EB%8C%80%EC%99%B8-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EB%B0%9C%ED%91%9C%EB%A5%BC-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%B3%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C-10%EC%9B%94-activity-7383826538632249344--0Yz)
+
+  <a href="https://www.youtube.com/watch?v=2jRicD15jXk">
+    <img src="https://img.youtube.com/vi/2jRicD15jXk/mqdefault.jpg" alt="Games on AWS 2025" width="320" />
+  </a>
 
 - **[2024.03] 메일링 시스템 이메일 발송 결과 수신 기능 발표**
 
@@ -38,7 +82,7 @@
 
 ### 📖 스터디
 
-- **[2026.01.15 ~ 진행중] 시스템 디자인 스터디 2권**
+- **[2026.01 ~ 진행중] 시스템 디자인 스터디 2권**
 
   **가상 면접 사례로 배우는 대규모 시스템 설계 기초 2권**을 학습하고 있습니다.
 
@@ -46,7 +90,7 @@
 
   [스터디 리포지토리](https://github.com/seungwontech/system-design-study2)
 
-- **[2025.10 ~ 2025.12.15] Node.js 디자인 패턴 바이블 스터디**
+- **[2025.10 ~ 2025.12] Node.js 디자인 패턴 바이블 스터디**
 
   **Node 코어 개념**, **동시성**, **이벤트 루프**, **모듈 시스템**을 학습하였습니다.
 
@@ -54,7 +98,7 @@
 
   [스터디 리포지토리](https://github.com/TSBM-Studio/nodejs-design-pattern-study)
 
-- **[2025.08 ~ 2025.10.30] 시스템 디자인 스터디 1권**
+- **[2025.08 ~ 2025.10] 시스템 디자인 스터디 1권**
 
   **가상 면접 사례로 배우는 대규모 시스템 설계 기초 1권**을 학습하였습니다.
 
@@ -75,6 +119,8 @@
   </a>
 
 ## 🌍 Open Source Contributions
+
+> **7 repos · 11 PRs · 8 Merged**
 
 ### [kiro-gateway](https://github.com/jwadow/kiro-gateway) — Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
 
@@ -115,4 +161,6 @@
 
 ## 🏆 Baekjoon Solved Rank
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kboxstar)](https://solved.ac/kboxstar/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kboxstar)](https://solved.ac/kboxstar/)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=120&section=footer)
