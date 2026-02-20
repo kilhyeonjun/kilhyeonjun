@@ -30,6 +30,7 @@ description: |
 
 | 스킬 | 설명 | 커버 파일 패턴 |
 |------|------|---------------|
+| `verify-readme-structure` | README.md 구조, 링크 형식, 테이블 정합성, 날짜 정렬 검증 | `README.md` |
 
 ## 워크플로우
 

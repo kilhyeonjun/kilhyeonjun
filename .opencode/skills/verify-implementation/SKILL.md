@@ -29,6 +29,7 @@ description: |
 
 | # | 스킬 | 설명 |
 |---|------|------|
+| 1 | `verify-readme-structure` | README.md 구조, 링크 형식, 테이블 정합성, 날짜 정렬 검증 |
 
 ## 워크플로우
 
