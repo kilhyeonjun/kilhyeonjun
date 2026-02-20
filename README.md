@@ -17,53 +17,6 @@
 - 🌱 새로운 기술을 배우고 이를 프로젝트에 적용하는 것을 즐깁니다.
 - 👥 실무에서의 다양한 경험을 기록하고 공유하며 지속적으로 성장 중입니다.
 
-## 🌍 Open Source Contributions
-
-### [kiro-gateway](https://github.com/jwadow/kiro-gateway) — Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#79](https://github.com/jwadow/kiro-gateway/pull/79) | fix(docker): remove :ro from kiro-cli SQLite volume mount | 🔄 Open |
-| [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
-| [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
-
-### [CodexBar](https://github.com/steipete/CodexBar)
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#288](https://github.com/steipete/CodexBar/pull/288) | fix(kiro): support kiro-cli 1.24+ Q Developer format | ✅ Merged |
-
-### [atlassian-skills](https://github.com/langpingxue/atlassian-skills)
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#7](https://github.com/langpingxue/atlassian-skills/pull/7) | fix: use ADF format for comments in Jira Cloud API v3 | ✅ Merged |
-| [#6](https://github.com/langpingxue/atlassian-skills/pull/6) | fix: migrate to new Jira Cloud search API endpoint | ✅ Merged |
-
-### [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#974](https://github.com/code-yeongyu/oh-my-opencode/pull/974) | feat(skill-loader): integrate plugin skills into unified skill discovery | 🔄 Open |
-
-### [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#71](https://github.com/ComposioHQ/awesome-claude-skills/pull/71) | Add jira-skill | 🔄 Open |
-
-### [cyan](https://github.com/coralblack/cyan)
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#110](https://github.com/coralblack/cyan/pull/110) | feat: add NOT IN operator to FindOperatorComp | ✅ Merged |
-
-### [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin)
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | ✅ Merged |
-
 ## 📅 Key Activities
 
 - **[2026.01.15 ~ 진행중] 시스템 디자인 스터디 2권**
@@ -119,6 +72,53 @@
   **AWS SES 이벤트 로깅** 관련 기술 세미나를 통해 실무 경험을 공유하였습니다.
 
   [세미나 내용 보기](https://jnp.tech/posts/2024-03-aws-ses-event-log)
+
+## 🌍 Open Source Contributions
+
+### [kiro-gateway](https://github.com/jwadow/kiro-gateway) — Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#79](https://github.com/jwadow/kiro-gateway/pull/79) | fix(docker): remove :ro from kiro-cli SQLite volume mount | 🔄 Open |
+| [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
+| [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
+
+### [CodexBar](https://github.com/steipete/CodexBar)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#288](https://github.com/steipete/CodexBar/pull/288) | fix(kiro): support kiro-cli 1.24+ Q Developer format | ✅ Merged |
+
+### [atlassian-skills](https://github.com/langpingxue/atlassian-skills)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#7](https://github.com/langpingxue/atlassian-skills/pull/7) | fix: use ADF format for comments in Jira Cloud API v3 | ✅ Merged |
+| [#6](https://github.com/langpingxue/atlassian-skills/pull/6) | fix: migrate to new Jira Cloud search API endpoint | ✅ Merged |
+
+### [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#974](https://github.com/code-yeongyu/oh-my-opencode/pull/974) | feat(skill-loader): integrate plugin skills into unified skill discovery | 🔄 Open |
+
+### [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#71](https://github.com/ComposioHQ/awesome-claude-skills/pull/71) | Add jira-skill | 🔄 Open |
+
+### [cyan](https://github.com/coralblack/cyan)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#110](https://github.com/coralblack/cyan/pull/110) | feat: add NOT IN operator to FindOperatorComp | ✅ Merged |
+
+### [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | ✅ Merged |
 
 ## 📜 Certifications
 
