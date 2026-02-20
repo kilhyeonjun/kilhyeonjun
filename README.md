@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Kil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Kil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20AI-Native%20Development&descAlignY=60&descAlign=50)
 
 <div align="center">
 
@@ -12,6 +12,7 @@
 
 안녕하세요! 5년차 백엔드 개발자 길현준입니다.
 
+- 🤖 생성형 AI를 활용한 AI 네이티브 개발로 생산성을 극대화합니다.
 - 🚀 확장 가능한 시스템 구축과 팀 협업을 통한 성장을 지향합니다.
 - 🌱 새로운 기술을 배우고 이를 프로젝트에 적용하는 것을 즐깁니다.
 - 👥 실무에서의 다양한 경험을 기록하고 공유하며 지속적으로 성장 중입니다.
