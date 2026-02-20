@@ -22,8 +22,15 @@
 
 | PR | Description | Status |
 |----|-------------|--------|
+| [#79](https://github.com/jwadow/kiro-gateway/pull/79) | fix(docker): remove :ro from kiro-cli SQLite volume mount | 🔄 Open |
 | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
 | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
+
+### [CodexBar](https://github.com/steipete/CodexBar)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#288](https://github.com/steipete/CodexBar/pull/288) | fix(kiro): support kiro-cli 1.24+ Q Developer format | ✅ Merged |
 
 ### [atlassian-skills](https://github.com/langpingxue/atlassian-skills)
 
@@ -31,6 +38,18 @@
 |----|-------------|--------|
 | [#7](https://github.com/langpingxue/atlassian-skills/pull/7) | fix: use ADF format for comments in Jira Cloud API v3 | ✅ Merged |
 | [#6](https://github.com/langpingxue/atlassian-skills/pull/6) | fix: migrate to new Jira Cloud search API endpoint | ✅ Merged |
+
+### [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#974](https://github.com/code-yeongyu/oh-my-opencode/pull/974) | feat(skill-loader): integrate plugin skills into unified skill discovery | 🔄 Open |
+
+### [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#71](https://github.com/ComposioHQ/awesome-claude-skills/pull/71) | Add jira-skill | 🔄 Open |
 
 ### [cyan](https://github.com/coralblack/cyan)
 
@@ -42,15 +61,17 @@
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | 🔄 Open |
+| [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | ✅ Merged |
 
 ## 📅 Key Activities
 
-- **[2026.01.15 ~ 예정] 시스템 디자인 스터디 2권**
+- **[2026.01.15 ~ 진행중] 시스템 디자인 스터디 2권**
 
-  **가상 면접 사례로 배우는 대규모 시스템 설계 기초 2권**을 학습할 예정입니다.
+  **가상 면접 사례로 배우는 대규모 시스템 설계 기초 2권**을 학습하고 있습니다.
 
   매주 내용 발표 및 공유, 토론을 진행합니다.
+
+  [스터디 리포지토리](https://github.com/seungwontech/system-design-study2)
 
 - **[2025.10 ~ 2025.12.15] Node.js 디자인 패턴 바이블 스터디**
 
