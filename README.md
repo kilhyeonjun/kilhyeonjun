@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=Google%20Docs&logoColor=white)](https://kilhyeonjun.github.io/resume/)
+  [![Resume](https://img.shields.io/badge/Resume-30A9DE?style=flat-square&logo=Google%20Docs&logoColor=white)](https://kilhyeonjun.github.io/resume/)
   [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Astro&logoColor=white)](https://kilhyeonjun.github.io)
   [![Email](https://img.shields.io/badge/kboxstar@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:kboxstar@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kilhyeonjun)
@@ -22,39 +22,14 @@
 
 <div align="center">
 
-**Languages**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frameworks & ORM**
-
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=TypeORM&logoColor=white)
-
-**Cloud & Infra**
-
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=AWS%20Lambda&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=Amazon%20SQS&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/CDK-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![GH Actions](https://img.shields.io/badge/GH%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)
-
-**Database & Monitoring**
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=Google%20BigQuery&logoColor=white)
-![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=flat-square&logo=Datadog&logoColor=white)
-
-**Testing**
-
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![LocalStack](https://img.shields.io/badge/LocalStack-252F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![GH Actions](https://img.shields.io/badge/GH%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)
 
 </div>
 
@@ -64,9 +39,7 @@
 
 - **[2025.10] Games on AWS 2025 컨퍼런스 발표**
 
-  **Amazon Q Developer를 활용한 개발 생산성 향상** 주제로 발표하였습니다.
-
-  주니어 개발자 혼자 10일 만에 데이터 파이프라인 처리 용량을 **270배 확장**한 사례를 공유했습니다.
+  **Amazon Q Developer를 활용한 개발 생산성 향상** — 10일 만에 데이터 파이프라인 처리 용량 **270배 확장** 사례
 
   [📺 발표 영상](https://www.youtube.com/watch?v=2jRicD15jXk) | [발표 후기](https://www.linkedin.com/posts/kilhyeonjun_%EC%A0%9C-%EC%83%9D%EC%95%A0-%EC%B2%AB-%EB%8C%80%EC%99%B8-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EB%B0%9C%ED%91%9C%EB%A5%BC-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%B3%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C-10%EC%9B%94-activity-7383826538632249344--0Yz)
 
@@ -74,45 +47,17 @@
     <img src="https://img.youtube.com/vi/2jRicD15jXk/mqdefault.jpg" alt="Games on AWS 2025" width="320" />
   </a>
 
-- **[2024.03] 메일링 시스템 이메일 발송 결과 수신 기능 발표**
-
-  **AWS SES 이벤트 로깅** 관련 기술 세미나를 통해 실무 경험을 공유하였습니다.
-
-  [세미나 내용 보기](https://jnp.tech/posts/2024-03-aws-ses-event-log)
+- **[2024.03] AWS SES 이벤트 로깅 기술 세미나** — [세미나 내용 보기](https://jnp.tech/posts/2024-03-aws-ses-event-log)
 
 ### 📖 스터디
 
-- **[2026.01 ~ 진행중] 시스템 디자인 스터디 2권**
-
-  **가상 면접 사례로 배우는 대규모 시스템 설계 기초 2권**을 학습하고 있습니다.
-
-  매주 내용 발표 및 공유, 토론을 진행합니다.
-
-  [스터디 리포지토리](https://github.com/seungwontech/system-design-study2)
-
-- **[2025.10 ~ 2025.12] Node.js 디자인 패턴 바이블 스터디**
-
-  **Node 코어 개념**, **동시성**, **이벤트 루프**, **모듈 시스템**을 학습하였습니다.
-
-  매주 챕터별 발표 + 토론, 실습 코드 작성 및 GitHub 공유를 진행했습니다.
-
-  [스터디 리포지토리](https://github.com/TSBM-Studio/nodejs-design-pattern-study)
-
-- **[2025.08 ~ 2025.10] 시스템 디자인 스터디 1권**
-
-  **가상 면접 사례로 배우는 대규모 시스템 설계 기초 1권**을 학습하였습니다.
-
-  매주 내용 발표 및 공유, 토론을 진행했습니다.
-
-  [스터디 리포지토리](https://github.com/jyjae/system-design-study)
+- **[2026.01 ~ 진행중] 시스템 디자인 스터디 2권** — [리포지토리](https://github.com/seungwontech/system-design-study2)
+- **[2025.10 ~ 2025.12] Node.js 디자인 패턴 바이블 스터디** — [리포지토리](https://github.com/TSBM-Studio/nodejs-design-pattern-study)
+- **[2025.08 ~ 2025.10] 시스템 디자인 스터디 1권** — [리포지토리](https://github.com/jyjae/system-design-study)
 
 ### 🎓 교육
 
-- **[2024.09 ~ 2024.11] 항해 플러스 백엔드 6기**
-
-  **TDD**, **Clean Architecture**, **대용량 트래픽 처리** 및 **장애 대응** 기술을 학습하고 프로젝트에 적용하였습니다. 사전 스터디부터 참여하여 기초 역량을 강화했습니다.
-
-  [프로젝트 보기](https://github.com/hhpb-code)
+- **[2024.09 ~ 2024.11] 항해 플러스 백엔드 6기** — TDD, Clean Architecture, 대용량 트래픽 처리 — [프로젝트](https://github.com/hhpb-code)
 
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
@@ -130,20 +75,16 @@
 | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
 | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
 
-### [CodexBar](https://github.com/steipete/CodexBar)
+### [CodexBar](https://github.com/steipete/CodexBar) · [atlassian-skills](https://github.com/langpingxue/atlassian-skills)
 
-| PR | Description | Status |
-|----|-------------|--------|
-| [#288](https://github.com/steipete/CodexBar/pull/288) | fix(kiro): support kiro-cli 1.24+ Q Developer format | ✅ Merged |
+| Project | PR | Description | Status |
+|---------|----|-------------|--------|
+| CodexBar | [#288](https://github.com/steipete/CodexBar/pull/288) | fix(kiro): support kiro-cli 1.24+ Q Developer format | ✅ Merged |
+| atlassian-skills | [#7](https://github.com/langpingxue/atlassian-skills/pull/7) | fix: use ADF format for comments in Jira Cloud API v3 | ✅ Merged |
+| atlassian-skills | [#6](https://github.com/langpingxue/atlassian-skills/pull/6) | fix: migrate to new Jira Cloud search API endpoint | ✅ Merged |
 
-### [atlassian-skills](https://github.com/langpingxue/atlassian-skills)
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#7](https://github.com/langpingxue/atlassian-skills/pull/7) | fix: use ADF format for comments in Jira Cloud API v3 | ✅ Merged |
-| [#6](https://github.com/langpingxue/atlassian-skills/pull/6) | fix: migrate to new Jira Cloud search API endpoint | ✅ Merged |
-
-### Others
+<details>
+<summary><b>Others (4 PRs)</b></summary>
 
 | Project | PR | Description | Status |
 |---------|----|-------------|--------|
@@ -151,6 +92,8 @@
 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | [#71](https://github.com/ComposioHQ/awesome-claude-skills/pull/71) | Add jira-skill | 🔄 Open |
 | [cyan](https://github.com/coralblack/cyan) | [#110](https://github.com/coralblack/cyan/pull/110) | feat: add NOT IN operator to FindOperatorComp | ✅ Merged |
 | [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin) | [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | ✅ Merged |
+
+</details>
 
 ## 📜 Certifications
 
