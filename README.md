@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Kil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20AI-Native%20Development&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Kil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=60&descAlign=50)
 
 <div align="center">
 
@@ -11,12 +11,12 @@
 
 ## 👋 About Me
 
-안녕하세요! 5년차 백엔드 개발자 길현준입니다.
+안녕하세요! 구조적 병목을 찾아 제거하는 백엔드 엔지니어 길현준입니다.
 
-- 🤖 생성형 AI를 활용한 AI 네이티브 개발로 생산성을 극대화합니다.
+- 🔧 DB 최적화, 동시성 제어, 이벤트 기반 아키텍처 설계를 수행합니다.
 - 🎮 게임 서버 · AWS 인프라 · 의료 SaaS 등 다양한 도메인 경험을 보유하고 있습니다.
 - 🚀 확장 가능한 시스템 구축과 팀 협업을 통한 성장을 지향합니다.
-- 🌱 새로운 기술을 배우고 이를 프로젝트에 적용하는 것을 즐깁니다.
+- 🤖 AI 에이전트를 개발 워크플로우에 통합하여 생산성을 높이고 있습니다.
 
 ## 🛠️ Tech Stack
 
