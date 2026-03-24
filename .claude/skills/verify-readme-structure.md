@@ -61,10 +61,10 @@ The summary line `> **N repos · M PRs · X Merged**` must match actual counts.
 cd /Users/gameduo/kilhyeonjun/kilhyeonjun
 
 # Extract claimed stats from summary line
-claimed=$(grep -oP '\*\*(\d+) repos · (\d+) PRs · (\d+) Merged\*\*' README.md)
+claimed=$(grep -oE '[0-9]+ repos · [0-9]+ PRs · [0-9]+ Merged' README.md)
 
 # Count actual PRs (including inside <details>)
-actual_prs=$(grep -cE '^\| .* \| \[#[0-9]+\]' README.md)
+actual_prs=$(grep -cE '\[#[0-9]+\]' README.md)
 
 # Count merged
 actual_merged=$(grep -c '✅ Merged' README.md)
@@ -96,7 +96,7 @@ Dates in Key Activities subsections and Certifications must be newest-first:
 ```bash
 cd /Users/gameduo/kilhyeonjun/kilhyeonjun
 # Extract dates from activities and certifications, check ordering
-grep -oP '\[\d{4}\.\d{2}' README.md | tr -d '['
+grep -oE '\[\d{4}\.\d{2}' README.md | tr -d '['
 ```
 
 Visually verify the extracted dates are in descending order. Out of order → FAIL.

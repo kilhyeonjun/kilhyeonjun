@@ -65,7 +65,7 @@
 
 ## 🌍 Open Source Contributions
 
-> **7 repos · 11 PRs · 8 Merged**
+> **7 repos · 10 PRs · 7 Merged**
 
 ### [kiro-gateway](https://github.com/jwadow/kiro-gateway) — Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
 
