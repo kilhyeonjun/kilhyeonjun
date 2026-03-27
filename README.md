@@ -65,15 +65,21 @@
 
 ## 🌍 Open Source Contributions
 
-> **7 repos · 10 PRs · 7 Merged**
+> **7 repos · 9 PRs · 9 Merged**
 
 ### [kiro-gateway](https://github.com/jwadow/kiro-gateway) — Added to [CONTRIBUTORS.md](https://github.com/jwadow/kiro-gateway/blob/main/CONTRIBUTORS.md)
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#79](https://github.com/jwadow/kiro-gateway/pull/79) | fix(docker): remove :ro from kiro-cli SQLite volume mount | 🔄 Open |
 | [#23](https://github.com/jwadow/kiro-gateway/pull/23) | fix(converters): skip thinking tag injection when toolResults present | ✅ Merged |
 | [#22](https://github.com/jwadow/kiro-gateway/pull/22) | fix(auth): reload SQLite credentials before AWS SSO OIDC token refresh | ✅ Merged |
+
+### [opencode](https://github.com/anomalyco/opencode) · [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+
+| Project | PR | Description | Status |
+|---------|----|-------------|--------|
+| opencode | [#15136](https://github.com/anomalyco/opencode/pull/15136) | fix(desktop): remove interactive shell flag from sidecar spawn to prevent hang on macOS | ✅ Merged |
+| oh-my-openagent | [#2664](https://github.com/code-yeongyu/oh-my-openagent/pull/2664) | fix(shared): respect cached model context limits for Anthropic providers post-GA | ✅ Merged |
 
 ### [CodexBar](https://github.com/steipete/CodexBar) · [atlassian-skills](https://github.com/langpingxue/atlassian-skills)
 
@@ -84,12 +90,10 @@
 | atlassian-skills | [#6](https://github.com/langpingxue/atlassian-skills/pull/6) | fix: migrate to new Jira Cloud search API endpoint | ✅ Merged |
 
 <details>
-<summary><b>Others (4 PRs)</b></summary>
+<summary><b>Others (2 PRs)</b></summary>
 
 | Project | PR | Description | Status |
 |---------|----|-------------|--------|
-| [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | [#974](https://github.com/code-yeongyu/oh-my-opencode/pull/974) | feat(skill-loader): integrate plugin skills into unified skill discovery | 🔄 Open |
-| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | [#71](https://github.com/ComposioHQ/awesome-claude-skills/pull/71) | Add jira-skill | 🔄 Open |
 | [cyan](https://github.com/coralblack/cyan) | [#110](https://github.com/coralblack/cyan/pull/110) | feat: add NOT IN operator to FindOperatorComp | ✅ Merged |
 | [SuperClaude_Plugin](https://github.com/SuperClaude-Org/SuperClaude_Plugin) | [#18](https://github.com/SuperClaude-Org/SuperClaude_Plugin/pull/18) | fix: correct marketplace name in documentation | ✅ Merged |
 
