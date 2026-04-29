@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Kil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Kil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Platform%20Part%20Leader%20%40%20GameDuo&descAlignY=60&descAlign=50)
 
 <div align="center">
 
@@ -16,7 +16,8 @@
 - 🔧 DB 최적화, 동시성 제어, 이벤트 기반 아키텍처 설계를 수행합니다.
 - 🎮 게임 서버 · AWS 인프라 · 의료 SaaS 등 다양한 도메인 경험을 보유하고 있습니다.
 - 🚀 확장 가능한 시스템 구축과 팀 협업을 통한 성장을 지향합니다.
-- 🤖 AI 에이전트를 개발 워크플로우에 통합하여 생산성을 높이고 있습니다.
+- 🤖 복수 AI 에이전트를 목적별로 오케스트레이션하여 프로덕션 소프트웨어를 설계·구축합니다.
+- 🏗️ Platform Part 리더로서 팀 공유 AI 컨텍스트 인프라(GameDuo Platform Harness)를 0→1 구축했습니다.
 
 ## 🛠️ Tech Stack
 
