@@ -9,6 +9,12 @@
 
 </div>
 
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/kilhyeonjun/svg?template=minimal&color=blue&graph=1)](https://tokscale.ai/u/kilhyeonjun)
+
+</div>
+
 ## 👋 About Me
 
 안녕하세요! 구조적 병목을 찾아 제거하는 백엔드 엔지니어 길현준입니다.
