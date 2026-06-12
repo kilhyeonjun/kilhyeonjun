@@ -24,6 +24,7 @@
 - 🚀 확장 가능한 시스템 구축과 팀 협업을 통한 성장을 지향합니다.
 - 🤖 복수 AI 에이전트를 목적별로 오케스트레이션하여 프로덕션 소프트웨어를 설계·구축합니다.
 - 🏗️ Platform Part 리더로서 팀 공유 AI 컨텍스트 인프라(GameDuo Platform Harness)를 0→1 구축했습니다.
+- 🧠 RAG·MCP·Git Hooks 기반 개인 하네스로 AI 작업의 컨텍스트 검색과 품질 관리를 자동화합니다.
 
 ## 🛠️ Tech Stack
 
@@ -69,6 +70,12 @@
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
   </a>
+
+### 🧠 AI 개발 인프라
+
+- **[2026.04 ~ 진행중] AI 코딩 하네스 프레임워크** — Claude Code·Codex·Amazon Q 등 AI 코딩 에이전트의 컨텍스트, 규칙, RAG, 비용, 브라우저 런타임을 Git 기반 운영 인프라로 통합
+
+  [포트폴리오](https://kilhyeonjun.github.io/resume/portfolio/ai-coding-harness/) | [이력서](https://kilhyeonjun.github.io/resume/)
 
 ## 🌍 Open Source Contributions
 
