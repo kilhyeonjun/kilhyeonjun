@@ -12,7 +12,7 @@ description: Triggers on "전체 검증", "통합 검증", "verify all", "verify
 
 | # | Skill | Description |
 |---|-------|-------------|
-| 1 | `verify-readme-structure` | README sections, badges, links, OSS stats, date ordering |
+| 1 | `verify-readme-structure` | README sections, badges, links, OSS stats, no-Baekjoon positioning, date ordering |
 
 ## Procedure
 
@@ -32,8 +32,8 @@ Execute each skill in the table above sequentially. Collect all issues with:
 ### Summary
 | Skill | PASS | FAIL | Total |
 |-------|------|------|-------|
-| verify-readme-structure | N | M | 7 |
-| **Total** | N | M | 7 |
+| verify-readme-structure | N | M | 9 |
+| **Total** | N | M | 9 |
 
 ### Issues Found
 | # | Skill | Check | Issue | Fix Suggestion |
