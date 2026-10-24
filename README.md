@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=200&section=header&text=Hyeonjun%20Kil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Platform%20Lead%20%C2%B7%20Game%20Server%20/%20AWS%20/%20AI%20Dev%20Infra&descAlignY=60&descAlign=50)
+# Hyeonjun Kil
+
+**Backend Engineer · Platform Part Leader**
+
+6개 라이브 게임의 공통 백엔드를 설계·운영합니다. DB 병목·동시성·공통 패키지를 다루며, BE·FE·AI 3인 파트의 설계·검증 기준을 이끕니다.
 
 <div align="center">
 
-  [![Resume](https://img.shields.io/badge/Resume-30A9DE?style=flat-square&logo=Google%20Docs&logoColor=white)](https://kilhyeonjun.github.io/resume/)
-  [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Astro&logoColor=white)](https://kilhyeonjun.github.io)
+  [![Resume](https://img.shields.io/badge/Resume-30A9DE?style=flat-square&logo=Google%20Docs&logoColor=white)](https://career.kilpenguin.com/)
+  [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Astro&logoColor=white)](https://blog.kilpenguin.com/)
   [![Email](https://img.shields.io/badge/kboxstar@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:kboxstar@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kilhyeonjun)
 
-  ![Data Pipeline](https://img.shields.io/badge/Data%20Pipeline-270x%20Scaling-30A9DE?style=flat-square)
   ![Open Source](https://img.shields.io/badge/Open%20Source-9%20Merged%20PRs-2DA44E?style=flat-square)
   ![AI Dev Infra](https://img.shields.io/badge/AI%20Dev%20Infra-0--to--1%20Platform-8B5CF6?style=flat-square)
 
@@ -15,14 +18,13 @@
 
 ## 👋 About Me
 
-안녕하세요. **게임 서버 · AWS 인프라 · DB 병목**을 다루는 백엔드 엔지니어 길현준입니다.<br>
-최근에는 팀 단위 AI 개발 인프라와 오픈소스 기여를 통해 개발 생산성과 품질 관리 체계를 고도화하고 있습니다.
+직접 설계·구현하는 백엔드 엔지니어입니다. 공통 패키지와 완료 기준을 팀에 적용하고, AI 도구 산출물은 테스트·리뷰로 검증합니다. 아래 실무 사례에는 선택 이유와 측정 조건을, 공개 프로젝트에는 직접 확인할 수 있는 코드·테스트를 연결했습니다.
 
 ## Impact Snapshot
 
-> **270x** data pipeline throughput scaling with Amazon Q Developer<br>
-> **9/9** merged open-source PRs across **7 repositories**<br>
-> **0→1** internal AI coding harness for team context, RAG, rules, and quality gates
+- **운영 DB 병목:** 백필 처리량 **9.3→247건/분** — [원인 분석과 쿼리 변경](https://career.kilpenguin.com/portfolio/rds-saturation-rca/).
+- **채팅 서버 설계:** **6K msg/s 부하 시험에서 ACK p95 767.6→6.6ms** — [채널 샤딩과 원자성 경계](https://career.kilpenguin.com/portfolio/realtime-game-chat/). dev/sandbox 시험이며 라이브 트래픽 수치가 아닙니다.
+- **공통 플랫폼:** **7개 프로젝트 업그레이드 반영 약 3시간→15분** — [패키지·CI 설계와 이관 회귀](https://career.kilpenguin.com/portfolio/shared-package-ci-platform/).
 
 ## Core Strengths
 
@@ -36,7 +38,7 @@
 ### 🎤 Games on AWS 2025
 
 **Amazon Q Developer를 활용한 개발 생산성 향상** 발표<br>
-10일 만에 데이터 파이프라인 처리 용량 **270배 확장** 사례를 공유했습니다.
+개발자 1인이 10일 만에 **시간당 병렬 처리 Job 수 기준** 데이터 파이프라인 용량을 **270배 확장**한 사례를 공유했습니다.
 
 [📺 발표 영상](https://www.youtube.com/watch?v=2jRicD15jXk) · [발표 후기](https://www.linkedin.com/posts/kilhyeonjun_%EC%A0%9C-%EC%83%9D%EC%95%A0-%EC%B2%AB-%EB%8C%80%EC%99%B8-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EB%B0%9C%ED%91%9C%EB%A5%BC-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%B3%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C-10%EC%9B%94-activity-7383826538632249344--0Yz)
 
@@ -44,12 +46,15 @@
   <img src="https://img.youtube.com/vi/2jRicD15jXk/maxresdefault.jpg" alt="Games on AWS 2025" width="520" />
 </a>
 
-### 🏗️ GameDuo Platform Harness
+### 공개 코드로 확인할 수 있는 작업
 
-팀 공유 AI 컨텍스트 인프라를 **0→1**로 구축했습니다.<br>
-Claude Code, Codex, Amazon Q 등 AI 코딩 에이전트의 컨텍스트, 규칙, RAG, 비용, 브라우저 런타임을 Git 기반 운영 인프라로 통합합니다.
+| 프로젝트 | 확인할 설계·검증 | 근거 |
+|---|---|---|
+| [Harness Launcher](https://github.com/kilhyeonjun/harness-launcher) | 프로젝트 경계별 런타임 격리, 영속 접수·목적지별 FIFO, 중복 접수·대기 timeout 처리 | [사례와 검증 범위](https://career.kilpenguin.com/portfolio/ai-coding-harness/) |
+| [대신물류 배차 원장](https://github.com/kilhyeonjun/daesin-logistics-bot-be) | ARM64 배포·복구, singleton 수집, 실제 변경 행과 API 일치 관측 | [운영 사례와 한계](https://career.kilpenguin.com/portfolio/daesin-logistics-bot/) |
+| [콘서트 예약](https://github.com/hhpb-code/hhplus-concert) | 좌석·지갑 경합 범위, 낙관적 락·사용자 단위 분산 락, 공개 부하 보고서 | [코드·테스트 연결](https://career.kilpenguin.com/portfolio/concert-reservation/) |
 
-[포트폴리오](https://kilhyeonjun.github.io/resume/portfolio/ai-coding-harness/) · [이력서](https://kilhyeonjun.github.io/resume/)
+Harness Launcher는 개인 공개 프로젝트입니다. 회사의 팀 공유 컨텍스트·내부 데이터·운영 인덱스는 별도 범위이며, 이 저장소의 공개 근거에 포함하지 않습니다. 대신물류의 운영 기록은 운영자가 기록한 단일 배포 관측으로, 독립 검증이나 가동률·최신성 SLA가 아닙니다.
 
 ### 🌍 Open Source Fixes
 
@@ -118,7 +123,7 @@ CLI 안정성, provider 호환성, 인증/토큰 갱신, Jira Cloud API 마이�
 
 - **[2026.04 ~ 진행중] AI 코딩 하네스 프레임워크** — 팀 공유 AI 개발 인프라, RAG/MCP/Git Hooks 기반 컨텍스트·품질 관리
 - **[2026.01 ~ 진행중] 시스템 디자인 스터디 2권** — [리포지토리](https://github.com/seungwontech/system-design-study2)
-- **[2025.10] Games on AWS 2025 컨퍼런스 발표** — Amazon Q Developer 기반 데이터 파이프라인 처리량 270배 확장 사례
+- **[2025.10] Games on AWS 2025 컨퍼런스 발표** — 시간당 병렬 처리 Job 수 기준 파이프라인 용량 270배 확장 사례
 - **[2025.10 ~ 2025.12] Node.js 디자인 패턴 바이블 스터디** — [리포지토리](https://github.com/TSBM-Studio/nodejs-design-pattern-study)
 - **[2025.08 ~ 2025.10] 시스템 디자인 스터디 1권** — [리포지토리](https://github.com/jyjae/system-design-study)
 - **[2024.09 ~ 2024.11] 항해 플러스 백엔드 6기** — TDD, Clean Architecture, 대용량 트래픽 처리 — [프로젝트](https://github.com/hhpb-code)
